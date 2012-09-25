@@ -1,6 +1,9 @@
 first_app
 =========
 
-#blablablabla
+#Ruby on rails: first application
+
+This is the first app for
+[*Ruby tutorial] (http://railstutorial.com)
 
 first_app
