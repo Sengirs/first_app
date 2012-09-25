@@ -11,8 +11,8 @@ gem 'sqlite3-ruby'
 
 
 =======
-gem 'sqlite3-ruby', '3.2.8', :group => development
->>>>>>> 13df530d67891570c07d885de11f1a7a65b0a763
+#gem 'sqlite3-ruby', '3.2.8', :group => development
+#>>>>>>> 13df530d67891570c07d885de11f1a7a65b0a763
 
 # Gems used only for assets and not required
 # in production environments by default.
